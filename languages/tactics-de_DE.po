@@ -1,0 +1,85 @@
+# Copyright (C) 2019 Inoventrix S.A. de C.V.
+# This file is distributed under the same license as the woocommerce tactics plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: woocommerce tactics 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/woocommerce-"
+"tactics\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-12-27T17:53:25+00:00\n"
+"PO-Revision-Date: 2019-12-27 13:10-0600\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Domain: tactics\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: de\n"
+
+#. Plugin Name of the plugin
+msgid "woocommerce tactics"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "Inoventrix.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin adds a message in product price."
+msgstr ""
+
+#. Author of the plugin
+msgid "Inoventrix S.A. de C.V."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "Inoventrix"
+msgstr ""
+
+#: woocommerce-tactics.php:40
+msgid "Tactics"
+msgstr "Taktik"
+
+#: woocommerce-tactics.php:66
+msgid "Conversion Tactics"
+msgstr "Conversion-Taktik"
+
+#: woocommerce-tactics.php:68
+msgid ""
+"Looking for a boost in conversion? Adjust in here your front end details."
+msgstr ""
+"Auf der Suche nach einem Umsatzschub? Passen Sie hier Ihre Frontend-"
+"Details an."
+
+#: woocommerce-tactics.php:75
+msgid "Change the pricing appearance of your variable products:"
+msgstr "Ändern Sie das Preisaussehen Ihrer variablen Produkte:"
+
+#: woocommerce-tactics.php:80
+msgid "Starting Title"
+msgstr "Starttitel"
+
+#: woocommerce-tactics.php:81
+msgid "Place in here the text that comes in front of the starting price."
+msgstr "Tragen Sie hier den Text ein, der vor dem Startpreis steht."
+
+#: woocommerce-tactics.php:91
+msgid "Location"
+msgstr "Ort"
+
+#: woocommerce-tactics.php:93
+msgid "Showing on archive pages"
+msgstr "Wird auf Archivseiten angezeigt"
+
+#: woocommerce-tactics.php:94
+msgid "Showing on product pages"
+msgstr "Auf Produktseiten anzeigen"
+
+#: woocommerce-tactics.php:95
+msgid "Showing on archive and product pages"
+msgstr "Wird auf Archiv- und Produktseiten angezeigt"
+
+#: woocommerce-tactics.php:98
+msgid "You can display the change in several locations."
+msgstr "Sie können die Änderung an mehreren Stellen anzeigen."
